@@ -2,7 +2,7 @@
 
 ## Bird Mechanics
 - **Bird Avatar:**
-  * Players control a bird character.
+  - Players control a bird character.
   - Stamina bar indicates flight endurance.
   - Start with a basic bird; upgrade to different and better birds.
 
